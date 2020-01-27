@@ -1,0 +1,232 @@
+#title
+{
+    background-color: #ff4c68;
+    padding-bottom: 10%;
+}
+h1
+{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    
+    color: white;
+    
+}
+.container-fluid
+{
+    padding: 3% 15% ;
+}
+.navbar
+{
+    font-family: 'Ubuntu', sans-serif;
+    /* font-size: 2.5rem; */
+    font-weight: bold;
+    padding: 0 0 4.5rem 0;
+    
+}
+.navbar-brand
+{
+    font-size: 2.4rem;
+}
+
+body
+{
+    font-family: "Montserrat-Black", sans-serif;
+}
+.nav-item
+{
+    padding: 0 18px;
+
+}
+.title-img
+{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-bottom: 20%;
+    margin-left: 50px;
+    
+}
+#features
+{
+    
+    padding-top: 5%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    
+}
+.features-div
+{
+    padding-bottom: 0;
+}
+h3
+{
+    font-family: "Montserrat-bold";
+    font-weight: 1.5rem;
+    font-weight: bolder;
+}
+p{
+    color: grey;
+}
+.fas 
+{
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+.fas:hover
+{
+    color: #ff4c68;
+}
+#testimonials
+{
+    
+    background-color: #ef8172;
+    text-align: center;
+}
+.dog
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+
+.dog-review
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+    line-height: 5rem;
+    color: #fff;
+}
+.testimonial-text
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+    line-height: 5rem;
+    color: #fff;
+}
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+}
+.image
+{
+    width: 20%;
+    margin: 30px;
+}
+
+.butn
+{
+    margin-right: 10px;
+}
+
+.dog-plan
+{
+    font-family: 'Roboto Mono', monospace;
+}
+.dog-names
+{
+    font-family: 'Heebo', sans-serif;
+}
+.price
+{
+    font-family: 'Courgette', cursive;
+}
+.Listing
+{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5rem;
+}
+.affordability
+{
+    padding: 25px;
+    font-size: 1.5rem;
+}
+.carousel-item
+{
+    padding: 7% 10%;
+}
+#pricing
+{
+     padding:6% 8%  ; 
+     text-align: center;
+}
+.pri
+{
+    padding-bottom: 6%;
+}
+.card 
+{
+    padding: 0 2% 2% 2%;
+}
+
+
+@media (max-width:991px)
+{
+    .title-img
+    {
+        position: static;
+        transform: rotate(0deg);
+        padding-bottom: 0;
+        margin-bottom: 0;
+        margin-top: 60px;
+    }
+    .titlex
+    {
+        text-align: center;
+    }
+}
+#cta 
+{
+    text-align: center;
+    background-color: #ff4c68;
+    
+    padding: 0 10%  0 10%;
+}
+.last
+{
+    font-family: "Montserrat-Black-900", sans-serif;
+    
+    font-size: x-large;
+
+    color: #fff;
+
+    font-weight: 900;
+
+    font-size: 45px;
+    
+}
+.last-div
+{
+    padding: 10%;
+}
+.buttn
+{
+    margin: 50px 10px 0 10px ;
+}
+#footer
+{
+    text-align: center;
+ padding: 7%;   
+}
+.xx
+{
+    margin-right: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+  
